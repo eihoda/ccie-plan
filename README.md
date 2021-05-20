@@ -12,6 +12,7 @@ This repo will be focused on my CCIE journey. I will update many of my notes alo
 
     ```
     2-3 hours a day
+    4 -6
 
     Week before exam do full labs everyday
     ```
